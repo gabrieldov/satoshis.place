@@ -4,7 +4,7 @@
 ## Introduction
 Welcome to satoshis.place, if you're a developer and you are interested in making apps, services or bots you'll find information here on how to interact with the API.
 
-**Note: You won't find the source code for satoshis.place here, the project is not open source and there are no plans to do publish the code yet)**
+**Note: You won't find the source code for satoshis.place here, the project is not open source and there are no plans to do publish the code yet**
 
 If you find any bugs or have any suggestions at all, feel free to open an issue and obviously any PRs to contribute towards this documentation are also welcome!
 
