@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/XUo6fAX.jpg" />
 
 ## Introduction
-Welcome to satoshis.place, if you're a developer and you are interesting in making apps, services or bots you'll find information here on how to interact with the API.
+Welcome to satoshis.place, if you're a developer and you are interested in making apps, services or bots you'll find information here on how to interact with the API.
 
 **Note: You won't find the source code for satoshis.place here, the project is not open source and there are no plans to do publish the code yet)**
 
